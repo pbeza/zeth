@@ -2684,6 +2684,8 @@ dependencies = [
  "rand_core",
  "risc0-zkvm",
  "secp256k1",
+ "serde",
+ "serde_json",
  "sgx-ra",
  "sha3",
  "tokio",
